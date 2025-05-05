@@ -104,7 +104,12 @@ The AIGEN’s architecture is divided into three main layers:
 
 Below is a simplified flowchart illustrating the AIGEN’s architecture:
 
-<img width="814" alt="image" src="https://github.com/user-attachments/assets/13a80193-2a26-4254-b9cf-7bd6661043b0" />
+| **User Interface Layer** | **Application Layer** | **Blockchain Layer** |
+|--------------------------|------------------------|------------------------|
+| - Market Scanner         | - AI Algorithms        | - Smart Contracts      |
+| - Trading Tools          | - Risk Assessment      | - Data Storage         |
+| - Project Analysis       | - NLP Models           | - Cross-Chain          |
+
 
 6. **Key Technical Components**
 
