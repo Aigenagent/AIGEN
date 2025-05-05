@@ -15,7 +15,7 @@ Thanks to its community driven structure, the AIGEN platform integrates Key Opin
 
 # The DeFAI Engine: Overview
 
-ART
+![aigendocs](https://github.com/user-attachments/assets/b9acdda2-934c-42fd-8c39-01282f06951a)
 
 ### Defining the DeFAI Engine (Aigen) and Its Purpose
 
@@ -44,7 +44,8 @@ Aigen is more than just a character it is the embodiment of the DeFAI Engine’s
 
 In essence, the DeFAI Engine, with Aigen at its forefront, is not just a platform it is a movement to redefine decentralized finance. By combining advanced technology with community driven values, the DeFAI Engine aims to create a financial ecosystem that is intelligent, inclusive, and empowering for everyone.
 
-ART
+
+![2 (1)](https://github.com/user-attachments/assets/bfab6bf4-8fe1-4e51-b742-f817df742478)
 
 ### Key Features of the AIGEN
 
@@ -84,7 +85,7 @@ Aigen plays a key role in educating users about DeFi, AI, and the DeFAI Engine t
 
 The DeFAI Engine is designed to revolutionize decentralized finance (DeFi) by integrating artificial intelligence (AI) and blockchain technology. Below are real-world applications and use cases that demonstrate the platform’s versatility and impact across various industries and user needs.
 
-ART
+![1 (1)](https://github.com/user-attachments/assets/876710b0-d0cd-4440-9b22-bc2029c06b6c)
 
 
 1. #### AI-Powered Portfolio Management
