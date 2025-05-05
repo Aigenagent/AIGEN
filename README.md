@@ -1,4 +1,10 @@
 ![x-cover-aigen (1)](https://github.com/user-attachments/assets/318dfaca-696c-4447-b4d7-c2c5f0d5fb08)
+<h3 style="margin-top: 15px; margin-bottom: 15px; display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <a href="https://x.com/aigen_agent/" style="text-decoration: none;">
+    <img alt="X" src="https://img.shields.io/twitter/follow/aigen_agent?style=social">
+  </a>
+</h3>
+
 # AIGEN: Transforming Defi with AI agent
 AIGEN is a pioneering platform that integrates decentralized finance (DeFi) with artificial intelligence (AI), aiming to redefine financial ecosystems in the digital age.
 At the core of the platform lies an AI agent designed to enhance decision making processes, optimize financial strategies, and deliver deep insights into the rapidly evolving DeFi landscape.
